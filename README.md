@@ -20,8 +20,8 @@
 ## Результаты:
 разработан алгоритм, способный отслеживать нажатие каждой клавиши на пианино и заполнять время нажатия
 и отпускания в результирующий набор данных. (Результаты представлены в папке results).
-![clavishi_2](https://github.com/user-attachments/assets/c4efe9ef-be7a-41be-8768-1e51dd66c6a9)
-![dataa_of_puts_1](https://github.com/user-attachments/assets/f2dd663b-475b-4757-ae53-f1476b7eb268)
-![dataa_of_puts_2](https://github.com/user-attachments/assets/3d92a455-9bfb-441e-9e5f-07675aec1b6a)
 
-
+![clavishi_2](https://github.com/user-attachments/assets/e917e22b-87ce-4866-847d-d5e460261ecd)
+![clavishi](https://github.com/user-attachments/assets/841216d5-ab1d-4a4d-8913-af21931b0a5f)
+![dataa_of_puts_2](https://github.com/user-attachments/assets/61b1a03b-997a-424d-b8a1-be784896531b)
+![dataa_of_puts_1](https://github.com/user-attachments/assets/124b2af0-1cda-4e59-a56b-9e972bddc5c0)
